@@ -1,0 +1,24 @@
+"#navTray": {
+	width: 200,
+	right: 0,
+	backgroundColor: '#fa72c0',
+	visible: false
+},
+
+"#menu": {
+	top: 10,
+	bottom: 100,
+	width: 200,
+	backgroundColor: 'transparent'
+},
+
+".menuRow": {
+	height: 30,
+	color: "#ffffff",
+	selectionStyle: Titanium.UI.iPhone.TableViewCellSelectionStyle.GRAY
+},
+
+"#menu_home": {
+	left: 50,
+	color: "#ffffff"
+}

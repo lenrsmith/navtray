@@ -1,0 +1,9 @@
+<Alloy>
+	<View id="navTray">
+		<TableView id="menu">
+			<TableViewRow onClick="goHome" class="menuRow">
+				<Label id="menu_home"  text="Home" />
+			</TableViewRow>
+		</TableView>
+	</View>
+</Alloy>
